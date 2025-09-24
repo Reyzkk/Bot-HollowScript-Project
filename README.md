@@ -91,7 +91,7 @@ python src/bot.py
 Se tudo estiver certo, aparecerá:
 ```
 ✅ Slash commands sincronizados.
-🤖 HollowScript está online como Nexa#1234
+🤖 Bot está online como seubot#1234
 ```
 
 E o comando `/ping` estará disponível no seu servidor 🎉.
@@ -131,4 +131,5 @@ Sinta-se livre para usar, modificar e compartilhar 🚀.
 
 ---
 
-👨‍💻 Criado com fins educativos por **[Seu Nome](https://github.com/seu-usuario)**.
+👨‍💻 Criado com fins educativos por **[Alexandre Concesso](https://github.com/Reyzk)**.
+
